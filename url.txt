@@ -1,1 +1,1 @@
-[Isi dengan URL dashboard Anda setelah di-deploy ke Streamlit Community Cloud, contoh: https://nama-aplikasi-anda.streamlit.app]
+[Isi dengan URL dashboard Anda setelah di-deploy ke Streamlit Community Cloud, contoh: https://harusberhasil.streamlit.app/]
